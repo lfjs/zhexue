@@ -25,4 +25,5 @@ config/index.js
 *.pkf
 #*.wav
 #*.mdd
-van/*.wav
+van/
+wang/
